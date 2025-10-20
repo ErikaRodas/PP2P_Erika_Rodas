@@ -6,4 +6,4 @@ Este repositorio contiene un proyecto web básico y estamos aprendiendo a utiliz
 
 | Carnet | Nombre | Fecha |
 | :---: | :---: | :---: |
-| [TU CARNET] | [TU NOMBRE COMPLETO] | [FECHA DE HOY] |
+| [202305965] | [Erika Haydée Rodas Hernández] | [19/10/2025] |
